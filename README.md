@@ -9,4 +9,20 @@ test
 a
 ```
 
-<iframe src="https://rezon-az.galileo.com.ua/"></iframe>
+<iframe src="https://rezon-az.galileo.com.ua/ru/IFrame?t=all" width="100%" height="350px"></iframe>
+
+
+<!-- Установите блок в удобном месте -->
+<div id="galileoForm"></div>
+
+<script type="text/javascript">
+    var galileoProject = "https://rezon-az.galileo.com.ua/ru/IFrame?t=all"; //Ссылка на iframe
+    (function(d) {
+        d.head.appendChild((function() {
+            var s = d.createElement('script');
+            s.src = 'https://bo.galileo.com.ua/Scripts/iframe.js';
+            s.defer = true;
+            return s;
+        })());
+    })(document);
+</script>
