@@ -9,4 +9,4 @@ test
 a
 ```
 
-<iframe src="https://planocopy.galileo.com.ua"></iframe>
+<iframe src="https://rezon-az.galileo.com.ua/"></iframe>
