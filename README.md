@@ -4,7 +4,7 @@ This file file serves as your book's preface, a great place to describe your boo
 
 ![](/assets/2017-04-24_23-13-59.png)
 
-```
+```javascript
 <script type="text/javascript">
 	$(document).ready(function(){
 		$("#rezon-forms").rezOnForm({
