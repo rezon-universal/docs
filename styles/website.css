@@ -1,11 +1,11 @@
 .gitbook-link,
 .custom-link
 {
-    display: none;
+    display: none !important;
 }
 
 /*---------HIGHLIGHT STYLE--------------- */
-.hljs {
+#book-search-results .hljs {
   display: block;
   overflow-x: auto;
   padding: 0.5em;
@@ -13,96 +13,96 @@
   color: #e6e1dc;
 }
 
-.hljs-comment,
-.hljs-quote {
+#book-search-results .hljs-comment,
+#book-search-results .hljs-quote {
   color: #bc9458;
   font-style: italic;
 }
 
-.hljs-keyword,
-.hljs-selector-tag {
+#book-search-results .hljs-keyword,
+#book-search-results .hljs-selector-tag {
   color: #c26230;
 }
 
-.hljs-string,
-.hljs-number,
-.hljs-regexp,
-.hljs-variable,
-.hljs-template-variable {
+#book-search-results .hljs-string,
+#book-search-results .hljs-number,
+#book-search-results .hljs-regexp,
+#book-search-results .hljs-variable,
+#book-search-results .hljs-template-variable {
   color: #a5c261;
 }
 
-.hljs-subst {
+#book-search-results .hljs-subst {
   color: #519f50;
 }
 
-.hljs-tag,
-.hljs-name {
+#book-search-results .hljs-tag,
+#book-search-results .hljs-name {
   color: #e8bf6a;
 }
 
-.hljs-type {
+#book-search-results .hljs-type {
   color: #da4939;
 }
 
 
-.hljs-symbol,
-.hljs-bullet,
-.hljs-built_in,
-.hljs-builtin-name,
-.hljs-attr,
-.hljs-link {
+#book-search-results .hljs-symbol,
+#book-search-results .hljs-bullet,
+#book-search-results .hljs-built_in,
+#book-search-results .hljs-builtin-name,
+#book-search-results .hljs-attr,
+#book-search-results .hljs-link {
   color: #6d9cbe;
 }
 
-.hljs-params {
+#book-search-results .hljs-params {
   color: #d0d0ff;
 }
 
-.hljs-attribute {
+#book-search-results .hljs-attribute {
   color: #cda869;
 }
 
-.hljs-meta {
+#book-search-results .hljs-meta {
   color: #9b859d;
 }
 
-.hljs-title,
-.hljs-section {
+#book-search-results .hljs-title,
+#book-search-results .hljs-section {
   color: #ffc66d;
 }
 
-.hljs-addition {
+#book-search-results .hljs-addition {
   background-color: #144212;
   color: #e6e1dc;
   display: inline-block;
   width: 100%;
 }
 
-.hljs-deletion {
+#book-search-results .hljs-deletion {
   background-color: #600;
   color: #e6e1dc;
   display: inline-block;
   width: 100%;
 }
 
-.hljs-selector-class {
+#book-search-results .hljs-selector-class {
   color: #9b703f;
 }
 
-.hljs-selector-id {
+#book-search-results .hljs-selector-id {
   color: #8b98ab;
 }
 
-.hljs-emphasis {
+#book-search-results .hljs-emphasis {
   font-style: italic;
 }
 
-.hljs-strong {
+#book-search-results .hljs-strong {
   font-weight: bold;
 }
 
-.hljs-link {
+#book-search-results .hljs-link {
   text-decoration: underline;
 }
 /*---------HIGHLIGHT STYLE--------------- */
