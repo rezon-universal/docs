@@ -3,5 +3,5 @@
     {
         "website": "./styles/website.css"
     },
-    "plugins": ["collapsible-menu"]
+    "plugins": ["toggle-chapters"]
 }
