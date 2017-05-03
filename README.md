@@ -4,7 +4,7 @@
     }
     defer(function() {
         $(document).ready(function(){
-            $("<iframe />").attr("src", "https://rezon.gitbooks.io/rezon-faq/content/")
+            $("<iframe />").attr("src", "https://faq.galileo.com.ua/")
                     .addClass("page-iframe")
                     .attr("frameborder", 0)
                     .attr("border", 0)
