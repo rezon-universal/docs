@@ -9,8 +9,7 @@
                     .attr("border", 0)
                     .attr("width", "100%")
                     .attr("height", "100%")
-                    .appendTo($(".body-inner"));
-            $(".book-header").remove();
+                    .appendAfter($(".book-header"));
         });
     });
 </script>
