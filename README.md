@@ -9,7 +9,7 @@
                     .attr("border", 0)
                     .attr("width", "100%")
                     .attr("height", "100%")
-                    .appendAfter($(".book-header"));
+                    .insertAfter($(".book-header"));
         });
     });
 </script>
