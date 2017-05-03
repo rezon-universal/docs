@@ -2,6 +2,5 @@
     "styles": 
     {
         "website": "./styles/website.css"
-    },
-    "plugins": ["toggle-chapters"]
+    }
 }
