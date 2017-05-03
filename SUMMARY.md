@@ -9,3 +9,12 @@
 
 * [Авиамодуль](nastroiki/aviamodul.md)
 
+## Collapse Test
+
+* [Level1](collapse-test/test1.md)
+  * [level2](collapse-test/test1/level2.md)
+  * [level2\_b](collapse-test/test1/level2b.md)
+  * [level2\_a](collapse-test/test1/level2a.md)
+* [Level1 a](collapse-test/a.md)
+* [Level1 b](collapse-test/level1-b.md)
+
