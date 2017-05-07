@@ -1,4 +1,7 @@
 {
+    "plugins": [
+        "-lunr", "-search", "search-pro"
+    ],
     "styles": 
     {
         "website": "./styles/website.css"
