@@ -1,7 +1,10 @@
 {
     "plugins": [
-        "-lunr", "-search", "search-pro"
+        "-lunr", "-search", "search-pro", "addcssjs"
     ],
+    "pluginsConfig": {
+        "addcssjs": { "js": ["js/custom.js"]}
+    },
     "styles": 
     {
         "website": "./styles/website.css"
