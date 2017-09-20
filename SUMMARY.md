@@ -8,6 +8,7 @@
 ## Настройки
 
 * [Авиамодуль](nastroiki/aviamodul.md)
+  * service fee
 
 ## Collapse Test
 
